@@ -1,0 +1,21 @@
+[
+    { "command": "cryptographer_hash", "args": {"function": "MD4"}, "caption": "Cryptographer: MD4" },
+    { "command": "cryptographer_hash", "args": {"function": "MD5"}, "caption": "Cryptographer: MD5" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA1"}, "caption": "Cryptographer: SHA1" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA224"}, "caption": "Cryptographer: SHA224" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA256"}, "caption": "Cryptographer: SHA256" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA384"}, "caption": "Cryptographer: SHA384" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA512"}, "caption": "Cryptographer: SHA512" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA3-224"}, "caption": "Cryptographer: SHA3-224" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA3-256"}, "caption": "Cryptographer: SHA3-256" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA3-384"}, "caption": "Cryptographer: SHA3-384" },
+    { "command": "cryptographer_hash", "args": {"function": "SHA3-512"}, "caption": "Cryptographer: SHA3-512" },
+    { "command": "cryptographer_encode", "args": {"function": "Base32"}, "caption": "Cryptographer: Base32 encode" },
+    { "command": "cryptographer_encode", "args": {"function": "Base64"}, "caption": "Cryptographer: Base64 encode" },
+    { "command": "cryptographer_encode", "args": {"function": "HTML"}, "caption": "Cryptographer: HTML encode" },
+    { "command": "cryptographer_encode", "args": {"function": "URL"}, "caption": "Cryptographer: URL encode" },
+    { "command": "cryptographer_decode", "args": {"function": "Base32"}, "caption": "Cryptographer: Base32 decode" },
+    { "command": "cryptographer_decode", "args": {"function": "Base64"}, "caption": "Cryptographer: Base64 decode" },
+    { "command": "cryptographer_decode", "args": {"function": "HTML"}, "caption": "Cryptographer: HTML decode" },
+    { "command": "cryptographer_decode", "args": {"function": "URL"}, "caption": "Cryptographer: URL decode" }
+]
